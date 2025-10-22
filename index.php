@@ -37,4 +37,5 @@
         <a href="php/etapa1.php">Compra de Produtos</a>
     </footer>
 </body>
+
 </html>
