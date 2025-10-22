@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Explorando Mundos e Emoções Animadas</h1>
+        <h1>Explorando Codigos e Afins</h1>
     </header>
     <main>
         <section id="intro">
