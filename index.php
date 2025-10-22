@@ -19,7 +19,7 @@
             </p>
         </section>
         <section id="anime-list">
-            <h2>Animes Populares</h2>
+            <h2>Animes </h2>
             <table>
                 <tr>
                     <td><img src="image/anime1.jpg" alt="Anime 1"></td>
