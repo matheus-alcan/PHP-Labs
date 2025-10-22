@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Explorando Codigos</h1>
+        <h1>Explorando </h1>
     </header>
     <main>
         <section id="intro">
